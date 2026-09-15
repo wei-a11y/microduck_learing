@@ -1,41 +1,53 @@
 # Current Progress
 
-Last updated: 2026-09-14
+Last updated: 2026-09-15
 
 ## Current Stage
 
-Stage 0 — Project Initialization & Baseline
+Stage 1 — Minimum Mathematics for Control & RL
 
 ## Completed
 
-- [x] 创建 `learning/` 工作目录
-- [x] 创建 `learning/AGENTS.md`
-- [x] 完成并提交 `ROADMAP.md`
-- [x] 创建 Knowledge Checklist
+### Stage 0 — Project Initialization & Baseline
+
+- [x] learning 文档体系建立
+- [x] ROADMAP 建立并提交 Git
+- [x] 阅读并理解项目基本结构
+- [x] 理解 Microduck 的完整控制数据流
+- [x] 区分 Command / Observation / Action
+- [x] 区分 Policy / PPO
+- [x] 区分 Actuator Model / MuJoCo Dynamics
+- [x] 理解 Training 与 Deployment 的区别
+
+## Stage 0 Evidence
+
+能够独立解释：
+
+Command + Sensor
+→ Observation
+→ Policy
+→ Action
+→ Joint Target
+→ Actuator
+→ Robot Dynamics
+→ Sensor
+
+训练阶段额外存在：
+
+Reward
+→ PPO
+→ Policy Update
+
+已完成 Stage 0 verbal gate。
 
 ## In Progress
 
-- Stage 0 项目初始化
-- Microduck 环境检查
-
-## Current Problems
-
-暂无。
+Stage 1 — Mathematics
 
 ## Next Tasks
 
-1. 阅读根目录 `AGENTS.md`
-2. 阅读项目 `README.md`
-3. 检查当前 Git branch
-4. 执行 `nvidia-smi`
-5. 检查 `uv`
-6. 浏览 Microduck RL 目录结构
-7. 完成 Stage 0 Gate
-
-## Current Stage Gate
-
-- [ ] 能说明两个月最终目标
-- [ ] 能说明为什么使用 Microduck
-- [ ] 能说明两个 AGENTS.md 的职责
-- [ ] 能说明 Microduck 使用的 simulator / RL framework
-- [ ] NVIDIA 环境正常
+1. Scalar / Vector
+2. Matrix
+3. Matrix dimension
+4. Matrix-vector multiplication
+5. 使用 NumPy 完成对应实验

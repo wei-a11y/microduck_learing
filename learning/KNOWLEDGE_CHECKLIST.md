@@ -195,10 +195,11 @@ Last updated: 2026-09-14
 
 | Topic | Target | Current | Evidence |
 |---|---:|---:|---|
-| Repository structure | 4 | 0 | |
-| Training entry point | 4 | 0 | |
-| Observation structure | 4 | 0 | |
-| Action structure | 4 | 0 | |
+| Repository structure | 4 | 2 | Completed Stage 0 repository overview |
+| Observation structure | 4 | 2 | Can explain 61D observation composition |
+| Action structure | 4 | 2 | Can explain 14D action → joint target |
+| PPO training flow | 4 | 1 | Can distinguish PPO training from policy inference |
+| Actuator model | 4 | 2 | Can explain actuator vs physics simulator |
 | Command structure | 4 | 0 | |
 | Reward structure | 4 | 0 | |
 | Termination | 3 | 0 | |
