@@ -38,16 +38,16 @@ Last updated: 2026-09-14
 | Eigenvector | 3 | 1 | 曾接触 LQR |
 | Positive definite matrix | 3 | 1 | 曾接触 LQR |
 | Function | 3 | 2 | |
-| Derivative | 3 | 2 | |
-| Partial derivative | 3 | 1 | |
-| Gradient | 4 | 1 | |
-| Chain rule | 3 | 1 | |
-| Random variable | 3 | 0 | |
-| Probability distribution | 3 | 0 | |
-| Expectation | 4 | 0 | |
-| Variance | 3 | 0 | |
-| Gaussian distribution | 3 | 0 | |
-| Sampling | 3 | 0 | |
+| Derivative | 3 | 3 | |
+| Partial derivative | 3 |3 | |
+| Gradient | 4 | 3 | |
+| Chain rule | 3 | 3 | |
+| Random variable | 3 | 3 | |
+| Probability distribution | 3 | 3 | |
+| Expectation | 4 | 3 | |
+| Variance | 3 | 3 | |
+| Gaussian distribution | 3 | 3 | |
+| Sampling | 3 | 3 | |
 
 ---
 
