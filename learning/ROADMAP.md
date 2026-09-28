@@ -861,3 +861,22 @@ Microduck 相关知识还需满足：
 - Result
 - Analysis
 - Conclusion
+
+# Completed
+
+## Stage 0&1 Completed
+
+Date:
+2026-09-28
+
+Completed:
+- Linear algebra basics
+- LQR mathematical connection
+- Derivative
+- Gradient
+- Chain rule
+- Probability basics
+- Gaussian policy basics
+
+Next:
+Stage 2 Neural Network & PyTorch
